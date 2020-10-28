@@ -3,9 +3,11 @@
 ## Installation 
 
 ```shell
- npm i simple-dex 
+ npm i  
 ```
 ## Usage
+
+#### NOTE: This is supposed to be used as a module
 
 ### Get the data of the given pokemon
 
